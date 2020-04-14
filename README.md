@@ -1,2 +1,2 @@
 # SalesM-DSS
-Sales Managment and Dicision Support system
+Sales Managment and Descision Support system
